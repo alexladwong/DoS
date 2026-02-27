@@ -2,6 +2,14 @@
 ### DevOps & Security Performance Engineering Framework
 
 
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Load Testing](https://img.shields.io/badge/Category-Performance%20Engineering-red)
+![CI Ready](https://img.shields.io/badge/DevOps-Ready-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+---
+
 ---
 
 # 3️⃣ Coursework Submission Report (Professional)
@@ -126,14 +134,7 @@ If you want next-level polish, I can now:
 - Turn this into a portfolio project page description
 - Add statistical graph templates for results
 
-Tell me what you want next 🔥
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![Load Testing](https://img.shields.io/badge/Category-Performance%20Engineering-red)
-![CI Ready](https://img.shields.io/badge/DevOps-Ready-success)
-![License](https://img.shields.io/badge/License-MIT-green)
-
----
 
 ## 🚀 Overview
 
