@@ -2,7 +2,6 @@
 ### DevOps & Security Performance Engineering Framework
 
 
-
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Load Testing](https://img.shields.io/badge/Category-Performance%20Engineering-red)
 ![CI Ready](https://img.shields.io/badge/DevOps-Ready-success)
